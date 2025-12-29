@@ -1,4 +1,4 @@
-# The Growth Project
+# thegrowthproject
 
 **Technology delivery for businesses navigating growth and complexity.**
 
