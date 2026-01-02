@@ -25,5 +25,5 @@ We're a technology delivery and integration partner for mid-market businesses. S
 
 ## Connect
 
-- **Website:** [thegrowthproject.com.au](https://thegrowthproject.com.au)
-- **Contact:** [thegrowthproject.com.au/contact](https://thegrowthproject.com.au/contact)
+- **Website:** [thegrowthproject.com.au](https://thegrowthproject.com)
+- **Contact:** [thegrowthproject.com.au/contact](https://thegrowthproject.com/contact)
